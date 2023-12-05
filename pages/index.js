@@ -49,7 +49,7 @@ export default function Home({ posts }) {
           </div>
           <h1>goodgoodnotbad</h1>
           <p>
-           障子にメアリー
+           
           </p>
         </header>
 
